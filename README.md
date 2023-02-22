@@ -31,7 +31,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `pnpm run eject`
 
-
 ## About
 
-Simple app displaying an accordion
+Project 1 Image Carousel
